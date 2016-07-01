@@ -1,7 +1,7 @@
 ﻿/**
  * 
  */
-package AffairProcessor;
+package affairprocessor;
 
 import org.apache.hadoop.io.ArrayWritable;
 import org.apache.hadoop.io.Text;

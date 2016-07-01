@@ -1,7 +1,7 @@
 ﻿/**
  * 
  */
-package AffairProcessor;
+package affairprocessor;
 
 import java.io.IOException;  
 
